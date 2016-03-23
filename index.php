@@ -14,9 +14,9 @@ session_start();
  * Please ensure that you have enabled the YouTube Data API for your project.
  */
 //$OAUTH2_CLIENT_ID = 'REPLACE_ME';
-$OAUTH2_CLIENT_ID = '20115273925-er6ito7p5co1q8a929s7s4vlggb4e47f.apps.googleusercontent.com';
+$OAUTH2_CLIENT_ID = 'Add own';
 //$OAUTH2_CLIENT_SECRET = 'REPLACE_ME';
-$OAUTH2_CLIENT_SECRET = 'HMusoioHe2fu_ehddsPu8mg7';
+$OAUTH2_CLIENT_SECRET = 'Add own';
 //$APPNAME = "PHP youtube list";
 
 $client = new Google_Client();
