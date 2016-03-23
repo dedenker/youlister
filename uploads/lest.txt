@@ -1,0 +1,8 @@
+    'http://youtu.be/dQw4w9WgXcQ',
+    'http://www.youtube.com/?v=dQw4w9WgXcQ',
+    'http://www.youtube.com/?v=dQw4w9WgXcQ&feature=player_embedded',
+    'http://www.youtube.com/watch?v=dQw4w9WgXcQ',
+    'http://www.youtube.com/watch?v=dQw4w9WgXcQ&feature=player_embedded',
+    'http://www.youtube.com/v/dQw4w9WgXcQ',
+    'http://www.youtube.com/e/dQw4w9WgXcQ',
+    'http://www.youtube.com/embed/dQw4w9WgXcQ'
